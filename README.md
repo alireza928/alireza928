@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there, I'm Alireza 👋
 
-<!--
-**alireza928/alireza928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I’m a passionate **software developer** who loves building clean, scalable, and user‑friendly solutions. I enjoy learning new technologies, collaborating on open‑source projects, and continuously improving my craft.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 I’m currently learning: **Ethical Hacking**
+* 💼 I’m working on: **[RadioGaGa / HA_carplay]**
+* 🤝 I’m open to collaborate on: **Open‑source / Interesting Projects / Fivem Scripting**
+* 💬 Ask me about: **[Technologies You Know]**
+* 📫 How to reach me: **[Email or Social Links]**
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:**
+
+* LUA • C# • Python • CSS • HTML • PHP
+
+**Frameworks & Libraries:**
+
+* React • Node.js • Express • Next.js • Tailwind CSS
+
+**Tools & Platforms:**
+
+* Git • Docker • Linux • GitHub Actions
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alireza928\&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza928\&layout=compact)
+
+---
+
+## 🏗️ Featured Projects
+
+### 🔹 **Project Title One**
+
+simple radio
+
+* ⭐ RadioGaGA
+* 🔗 [https://github.com/alireza928/RadioGaga.git](#)
+
+
+## 🌐 Connect With Me
+
+* 🌍 Discord: [https://discord.gg/5nX3Rwbphw](#)
+
+---
+
+✨ *Thanks for visiting my profile!*
