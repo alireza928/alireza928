@@ -30,7 +30,6 @@ I’m a passionate **software developer** who loves building clean, scalable, an
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-profile-trophy.vercel.app/?username=alireza928)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza928\&layout=compact)
 
 ---
