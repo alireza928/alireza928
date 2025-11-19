@@ -20,11 +20,11 @@ I’m a passionate **software developer** who loves building clean, scalable, an
 
 **Frameworks & Libraries:**
 
-* React • Node.js • Express • Next.js • Tailwind CSS
+* HTML • CSS • MySQL • JavaScript (basis)
 
 **Tools & Platforms:**
 
-* Git • Docker • Linux • GitHub Actions
+* Git • MySQL • Windows • GitHub Actions
 
 ---
 
