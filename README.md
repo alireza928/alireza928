@@ -7,8 +7,6 @@ I’m a passionate **software developer** who loves building clean, scalable, an
 * 🌱 I’m currently learning: **Ethical Hacking**
 * 💼 I’m working on: **[RadioGaGa / HA_carplay]**
 * 🤝 I’m open to collaborate on: **Open‑source / Interesting Projects / Fivem Scripting**
-* 💬 Ask me about: **[Technologies You Know]**
-* 📫 How to reach me: **[Email or Social Links]**
 
 ---
 
