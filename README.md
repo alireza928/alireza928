@@ -136,7 +136,7 @@ const alireza = {
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2026 Goals
 
 - [ ] Contribute to 10+ open-source projects
 - [ ] Complete ethical hacking certification
